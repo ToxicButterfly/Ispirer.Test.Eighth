@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Ispirer.Test.Eighth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ispirer_Test_Eighth_jar</output-path>
+    <root id="archive" name="Ispirer.Test.Eighth.jar">
+      <element id="module-output" name="Ispirer.Test.Eighth" />
+    </root>
+  </artifact>
+</component>
